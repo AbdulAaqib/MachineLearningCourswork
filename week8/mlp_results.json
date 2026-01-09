@@ -1,0 +1,146 @@
+[
+  {
+    "hidden_layer_sizes": "(2,)",
+    "n_hidden_layers": 1,
+    "total_hidden_neurons": 2,
+    "train_accuracy": 0.3392857142857143,
+    "test_accuracy": 0.3157894736842105,
+    "n_iter_": 311,
+    "loss_": 1.1120943607588174
+  },
+  {
+    "hidden_layer_sizes": "(4,)",
+    "n_hidden_layers": 1,
+    "total_hidden_neurons": 4,
+    "train_accuracy": 0.9732142857142857,
+    "test_accuracy": 0.9473684210526315,
+    "n_iter_": 2656,
+    "loss_": 0.26276746455006667
+  },
+  {
+    "hidden_layer_sizes": "(8,)",
+    "n_hidden_layers": 1,
+    "total_hidden_neurons": 8,
+    "train_accuracy": 0.9910714285714286,
+    "test_accuracy": 0.9736842105263158,
+    "n_iter_": 1493,
+    "loss_": 0.0840061895972009
+  },
+  {
+    "hidden_layer_sizes": "(16,)",
+    "n_hidden_layers": 1,
+    "total_hidden_neurons": 16,
+    "train_accuracy": 0.9821428571428571,
+    "test_accuracy": 0.9736842105263158,
+    "n_iter_": 1194,
+    "loss_": 0.08934901279679938
+  },
+  {
+    "hidden_layer_sizes": "(32,)",
+    "n_hidden_layers": 1,
+    "total_hidden_neurons": 32,
+    "train_accuracy": 0.9821428571428571,
+    "test_accuracy": 0.9736842105263158,
+    "n_iter_": 928,
+    "loss_": 0.0949648562797334
+  },
+  {
+    "hidden_layer_sizes": "(64,)",
+    "n_hidden_layers": 1,
+    "total_hidden_neurons": 64,
+    "train_accuracy": 0.9821428571428571,
+    "test_accuracy": 0.9736842105263158,
+    "n_iter_": 663,
+    "loss_": 0.07158148626849481
+  },
+  {
+    "hidden_layer_sizes": "(4, 4)",
+    "n_hidden_layers": 2,
+    "total_hidden_neurons": 8,
+    "train_accuracy": 0.3482142857142857,
+    "test_accuracy": 0.2631578947368421,
+    "n_iter_": 295,
+    "loss_": 1.104103311408652
+  },
+  {
+    "hidden_layer_sizes": "(8, 4)",
+    "n_hidden_layers": 2,
+    "total_hidden_neurons": 12,
+    "train_accuracy": 0.9821428571428571,
+    "test_accuracy": 0.9736842105263158,
+    "n_iter_": 1483,
+    "loss_": 0.08764019749934966
+  },
+  {
+    "hidden_layer_sizes": "(8, 8)",
+    "n_hidden_layers": 2,
+    "total_hidden_neurons": 16,
+    "train_accuracy": 0.9821428571428571,
+    "test_accuracy": 0.9736842105263158,
+    "n_iter_": 1240,
+    "loss_": 0.08213115654641442
+  },
+  {
+    "hidden_layer_sizes": "(16, 8)",
+    "n_hidden_layers": 2,
+    "total_hidden_neurons": 24,
+    "train_accuracy": 0.9821428571428571,
+    "test_accuracy": 0.9736842105263158,
+    "n_iter_": 625,
+    "loss_": 0.07035759792791625
+  },
+  {
+    "hidden_layer_sizes": "(16, 16)",
+    "n_hidden_layers": 2,
+    "total_hidden_neurons": 32,
+    "train_accuracy": 0.9910714285714286,
+    "test_accuracy": 0.9736842105263158,
+    "n_iter_": 613,
+    "loss_": 0.06069714551884937
+  },
+  {
+    "hidden_layer_sizes": "(32, 16)",
+    "n_hidden_layers": 2,
+    "total_hidden_neurons": 48,
+    "train_accuracy": 0.9910714285714286,
+    "test_accuracy": 0.9736842105263158,
+    "n_iter_": 477,
+    "loss_": 0.06792966269709388
+  },
+  {
+    "hidden_layer_sizes": "(4, 4, 2)",
+    "n_hidden_layers": 3,
+    "total_hidden_neurons": 10,
+    "train_accuracy": 0.9732142857142857,
+    "test_accuracy": 0.9736842105263158,
+    "n_iter_": 2284,
+    "loss_": 0.10581121423297513
+  },
+  {
+    "hidden_layer_sizes": "(8, 4, 2)",
+    "n_hidden_layers": 3,
+    "total_hidden_neurons": 14,
+    "train_accuracy": 0.9821428571428571,
+    "test_accuracy": 0.9736842105263158,
+    "n_iter_": 1668,
+    "loss_": 0.11426683575003597
+  },
+  {
+    "hidden_layer_sizes": "(16, 8, 4)",
+    "n_hidden_layers": 3,
+    "total_hidden_neurons": 28,
+    "train_accuracy": 0.9732142857142857,
+    "test_accuracy": 0.9736842105263158,
+    "n_iter_": 610,
+    "loss_": 0.061428416593666484
+  },
+  {
+    "hidden_layer_sizes": "(32, 16, 8)",
+    "n_hidden_layers": 3,
+    "total_hidden_neurons": 56,
+    "train_accuracy": 0.9910714285714286,
+    "test_accuracy": 0.9736842105263158,
+    "n_iter_": 413,
+    "loss_": 0.055373297078158475
+  }
+]

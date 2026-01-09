@@ -1,0 +1,4 @@
+epochs,kernel_size,test_acc,test_loss,duration_sec,acc_plot,loss_plot,cm_plot
+10,3x3,0.7050999999046326,0.8607621788978577,29.526575088500977,cnn_task_acc_epochs_10_kernel_3x3.png,cnn_task_loss_epochs_10_kernel_3x3.png,cnn_task_cm_epochs_10_kernel_3x3.png
+20,3x3,0.7073000073432922,0.9131930470466614,52.80151677131653,cnn_task_acc_epochs_20_kernel_3x3.png,cnn_task_loss_epochs_20_kernel_3x3.png,cnn_task_cm_epochs_20_kernel_3x3.png
+50,3x3,0.6980999708175659,1.7802330255508423,123.72546124458313,cnn_task_acc_epochs_50_kernel_3x3.png,cnn_task_loss_epochs_50_kernel_3x3.png,cnn_task_cm_epochs_50_kernel_3x3.png

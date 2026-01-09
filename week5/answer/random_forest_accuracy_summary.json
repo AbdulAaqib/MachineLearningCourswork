@@ -1,0 +1,68 @@
+[
+  {
+    "max_features": 2,
+    "accuracy": 0.9375,
+    "confusion_matrix": [
+      [
+        13,
+        0,
+        0
+      ],
+      [
+        0,
+        5,
+        2
+      ],
+      [
+        0,
+        0,
+        12
+      ]
+    ],
+    "plot_path": "confusion_matrix_max_features_2.png"
+  },
+  {
+    "max_features": 3,
+    "accuracy": 0.9688,
+    "confusion_matrix": [
+      [
+        13,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        1
+      ],
+      [
+        0,
+        0,
+        12
+      ]
+    ],
+    "plot_path": "confusion_matrix_max_features_3.png"
+  },
+  {
+    "max_features": 4,
+    "accuracy": 0.9375,
+    "confusion_matrix": [
+      [
+        13,
+        0,
+        0
+      ],
+      [
+        0,
+        5,
+        2
+      ],
+      [
+        0,
+        0,
+        12
+      ]
+    ],
+    "plot_path": "confusion_matrix_max_features_4.png"
+  }
+]

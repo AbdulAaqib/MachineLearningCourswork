@@ -1,0 +1,14 @@
+University of West London - Machine Learning - Week 9
+Task: Image Classification using k-NN (CIFAR-10)
+
+Task 1
+Based on the cross-validation results, we select the value of k that maximizes the mean cross-validation accuracy across folds (ties broken by the smaller k). We then retrain (store) the classifier using half of the CIFAR-10 training data and evaluate on the full test set.
+
+Chosen k: 11
+Cross-validation mean accuracy: 0.2774 +/- 0.0106
+Train size for final evaluation: 25000 (half of 50000)
+Test size: 10000
+Test accuracy with k=11: 0.3226
+
+Justification:
+We evaluated a range of k values using k-fold cross-validation, following the provided notebook structure (splitting data into folds, training on k-1 folds and validating on the remaining fold). The selected k achieved the highest mean validation accuracy, indicating the best generalization among the tested values. Finally, we trained on half of the available training data to match the task requirement and reported the accuracy on the entire test set.

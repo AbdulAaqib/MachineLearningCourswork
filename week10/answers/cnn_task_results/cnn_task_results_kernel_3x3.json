@@ -1,0 +1,26 @@
+[
+  {
+    "epochs": 10,
+    "kernel_size": "3x3",
+    "test_acc": 0.7024000287055969,
+    "test_loss": 0.8638368248939514,
+    "duration_sec": 31.8912513256073,
+    "plot": "cnn_task_acc_epochs_10_kernel_3x3.png"
+  },
+  {
+    "epochs": 20,
+    "kernel_size": "3x3",
+    "test_acc": 0.7213000059127808,
+    "test_loss": 0.881140410900116,
+    "duration_sec": 54.205353021621704,
+    "plot": "cnn_task_acc_epochs_20_kernel_3x3.png"
+  },
+  {
+    "epochs": 50,
+    "kernel_size": "3x3",
+    "test_acc": 0.6829000115394592,
+    "test_loss": 1.9009681940078735,
+    "duration_sec": 124.97265887260437,
+    "plot": "cnn_task_acc_epochs_50_kernel_3x3.png"
+  }
+]

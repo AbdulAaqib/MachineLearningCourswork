@@ -1,0 +1,18 @@
+[
+  {
+    "epochs": 10,
+    "kernel_size": "5x5",
+    "test_acc": 0.6973999738693237,
+    "test_loss": 0.8999427556991577,
+    "duration_sec": 31.74442434310913,
+    "plot": "cnn_task_acc_epochs_10_kernel_5x5.png"
+  },
+  {
+    "epochs": 20,
+    "kernel_size": "5x5",
+    "test_acc": 0.6913999915122986,
+    "test_loss": 0.9941210746765137,
+    "duration_sec": 54.92664694786072,
+    "plot": "cnn_task_acc_epochs_20_kernel_5x5.png"
+  }
+]

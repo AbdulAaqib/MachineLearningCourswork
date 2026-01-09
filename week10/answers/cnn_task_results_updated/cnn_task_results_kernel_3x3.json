@@ -1,0 +1,32 @@
+[
+  {
+    "epochs": 10,
+    "kernel_size": "3x3",
+    "test_acc": 0.7050999999046326,
+    "test_loss": 0.8607621788978577,
+    "duration_sec": 29.526575088500977,
+    "acc_plot": "cnn_task_acc_epochs_10_kernel_3x3.png",
+    "loss_plot": "cnn_task_loss_epochs_10_kernel_3x3.png",
+    "cm_plot": "cnn_task_cm_epochs_10_kernel_3x3.png"
+  },
+  {
+    "epochs": 20,
+    "kernel_size": "3x3",
+    "test_acc": 0.7073000073432922,
+    "test_loss": 0.9131930470466614,
+    "duration_sec": 52.80151677131653,
+    "acc_plot": "cnn_task_acc_epochs_20_kernel_3x3.png",
+    "loss_plot": "cnn_task_loss_epochs_20_kernel_3x3.png",
+    "cm_plot": "cnn_task_cm_epochs_20_kernel_3x3.png"
+  },
+  {
+    "epochs": 50,
+    "kernel_size": "3x3",
+    "test_acc": 0.6980999708175659,
+    "test_loss": 1.7802330255508423,
+    "duration_sec": 123.72546124458313,
+    "acc_plot": "cnn_task_acc_epochs_50_kernel_3x3.png",
+    "loss_plot": "cnn_task_loss_epochs_50_kernel_3x3.png",
+    "cm_plot": "cnn_task_cm_epochs_50_kernel_3x3.png"
+  }
+]

@@ -1,0 +1,3 @@
+epochs,kernel_size,test_acc,test_loss,duration_sec,plot
+10,5x5,0.6973999738693237,0.8999427556991577,31.74442434310913,cnn_task_acc_epochs_10_kernel_5x5.png
+20,5x5,0.6913999915122986,0.9941210746765137,54.92664694786072,cnn_task_acc_epochs_20_kernel_5x5.png
